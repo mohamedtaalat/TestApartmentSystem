@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Mohamed",
+    "email": "Test1@test.com",
+    "password": "12345678",
+    "confirmPassword": "12345678",
+    "role": "tenant",
+    "screenshot": "screenshot 1"
+  },
+   {
+     "name": "",
+    "email": "Test2@test.com",
+    "password": "12345678",
+    "confirmPassword": "12345678",
+    "role": "owner",
+    "screenshot": "screenshot 2"
+  },
+  {
+     "name": "Mohamed",
+    "email": "",
+    "password": "12345678",
+    "confirmPassword": "12345678",
+    "role": "owner",
+    "screenshot": "screenshot 3"
+  },
+   {
+     "name": "Mohamed",
+    "email": "Test2@test.com",
+    "password": "",
+    "confirmPassword": "12345678",
+    "role": "owner",
+    "screenshot": "screenshot 4"
+  },
+   {
+     "name": "Mohamed",
+    "email": "Test2@test.com",
+    "password": "12345678",
+    "confirmPassword": "",
+    "role": "owner",
+    "screenshot": "screenshot 5"
+  },
+   {
+     "name": "",
+    "email": "",
+    "password": "",
+    "confirmPassword": "12345678",
+    "role": "owner",
+    "screenshot": "screenshot 6"
+  }
+]

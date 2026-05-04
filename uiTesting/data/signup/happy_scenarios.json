@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Mohamed",
+    "email": "Test1@test.com",
+    "password": "12345678",
+    "confirmPassword": "12345678",
+    "role": "tenant",
+    "screenshot": "screenshot 1"
+  },
+   {
+     "name": "Mohamed",
+    "email": "Test2@test.com",
+    "password": "12345678",
+    "confirmPassword": "12345678",
+    "role": "owner",
+    "screenshot": "screenshot 2"
+  }
+]
