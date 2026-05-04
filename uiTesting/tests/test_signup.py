@@ -3,7 +3,7 @@ import time
 
 import pytest
 
-from uiTesting.pages.sign_up_page import SignUpPage
+from uiTesting.pages.signup_page import SignUpPage
 
 
 @pytest.mark.usefixtures("driver")

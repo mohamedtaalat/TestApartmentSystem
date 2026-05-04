@@ -1,0 +1,27 @@
+[
+  {
+    "email": "Testw94023849023849482304982349082@test.com",
+    "password": "12345678",
+    "screenshot": "screenshot 1"
+  },
+   {
+    "email": "Test2@test.com",
+    "password": "1234567893804239408234",
+    "screenshot": "screenshot 2"
+  },
+    {
+    "email": "",
+    "password": "1234567893804239408234",
+    "screenshot": "screenshot 3"
+  },
+    {
+    "email": "Test2@test.com",
+    "password": "",
+    "screenshot": "screenshot 4"
+  },
+    {
+    "email": "",
+    "password": "",
+    "screenshot": "screenshot 5"
+  }
+]
